@@ -4,7 +4,7 @@ body {
 }
 
 .wrapper{
-    margin: 0 auto;
+    /*margin: 0 auto;*/
 
 }
 
@@ -42,6 +42,13 @@ p {
 
 .title h1{
     line-height: 7px;
+}
+
+.knot{
+    border-radius : 25px !important;
+    background-color: #66E0FF !important;
+    font-size: 1.8em;
+
 }
 
 div#left {
