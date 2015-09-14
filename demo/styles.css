@@ -34,6 +34,7 @@ p {
 .title{
     margin: 0 auto;
     height: 100px;
+    width: 100%;
     padding: 8px;
     text-align: center;
     border-top: black 1px solid;
