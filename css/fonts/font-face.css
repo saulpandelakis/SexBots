@@ -383,7 +383,7 @@
 	
 @font-face {
     font-family:'InputMono';
-    src: url('InputMono/Medium-Bold.ttf') format('truetype');
+    src: url('InputMono/InputMono-BoldItalic.ttf') format('truetype');
     font-weight:700; /* Bold Italic */
     font-style:italic;
 	}	
@@ -397,7 +397,7 @@
 	
 @font-face {
     font-family:'InputMono';
-    src: url('InputMono/Medium-Black.ttf') format('truetype');
+    src: url('InputMono/InputMono-BlackItalic.ttf') format('truetype');
     font-weight:800; /* Black Italic */
     font-style:italic;
 	}		
