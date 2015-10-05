@@ -1173,3 +1173,14 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+
+  /*********************************************
+ * ajouts pia
+ *********************************************/
+ .over-photo{
+  background-color: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 0.3em !important; 
+
+ }
