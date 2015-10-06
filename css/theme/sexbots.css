@@ -63,7 +63,8 @@ body {
   font-size:0.9em;
   } 
 
-.reveal h2 .number {  
+.number {  
+  /* Mise en avant des n° */
   color:#268bd2; /* Bleu */
   }   
 
