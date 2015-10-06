@@ -92,6 +92,10 @@ body {
   font-weight:500; /* Medium */   
   }
 
+.reveal p.caption {
+  margin-top:5px;  
+  }  
+
 .reveal .left {
   text-align:left;
   }
